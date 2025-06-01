@@ -34,15 +34,15 @@ This project is a **regression-based machine learning model** that predicts hous
 
 The dataset used is obtained from Kaggle (https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data), **Bengaluru House Data**, which contains  9 features :
 
-Area Type 
-Availability
-Location
-Size
-Society 
-Total sqft
-bath
-balcony
-price
+- Area Type    : Type of area house exist
+- Availability : Date of availabity
+- Location     : Locality of house
+- Size         : Size of house (1BHK, 2BHK, etc)
+- Society      : Name of the society where house is located
+- Total sqft   : Total area of huse in square feet 
+- bath         : Number of bathrooms in the house
+- balcony      : Number of balconies in the house
+- price        : Price of the house in INR
 
 ---
 ## Project Workflow
